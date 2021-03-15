@@ -47,7 +47,7 @@
 
 
 <p align="center">
-<a href="mailto:anhkhoait97@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:anhkhoait97@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anhkhoait97@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
